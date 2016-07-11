@@ -35,18 +35,18 @@ public class MainActivity extends AppCompatActivity
     };
     ImageStructure imageStruArray[] = new ImageStructure[]
        {
-               new ImageStructure(R.drawable.shuiping,    "水瓶座",   "01.20-02.18"),
-               new ImageStructure(R.drawable.shuangyu,    "双鱼座",   "02.19-03.20"),
-               new ImageStructure(R.drawable.baiyang,     "白羊座",   "03.21-04.19"),
-               new ImageStructure(R.drawable.jinniu,      "金牛座",   "04.20-05.20"),
-               new ImageStructure(R.drawable.shuangzi,    "双子座",   "05.21-06.21"),
-               new ImageStructure(R.drawable.juxie,       "巨蟹座",   "06.22-07.22"),
-               new ImageStructure(R.drawable.shizi,       "狮子座",   "07.23-08.22"),
-               new ImageStructure(R.drawable.chunv,       "处女座",   "08.23-09.22"),
-               new ImageStructure(R.drawable.tiancheng,   "天秤座",   "09.23-10.23"),
-               new ImageStructure(R.drawable.tianxie,     "天蝎座",   "10.24-11.22"),
-               new ImageStructure(R.drawable.sheshou,     "射手座",   "11.23-12.21"),
-               new ImageStructure(R.drawable.mojie,       "摩羯座",   "12.22-01.19"),
+           new ImageStructure(R.drawable.shuiping,    "水瓶座",   "01.20-02.18"),
+           new ImageStructure(R.drawable.shuangyu,    "双鱼座",   "02.19-03.20"),
+           new ImageStructure(R.drawable.baiyang,     "白羊座",   "03.21-04.19"),
+           new ImageStructure(R.drawable.jinniu,      "金牛座",   "04.20-05.20"),
+           new ImageStructure(R.drawable.shuangzi,    "双子座",   "05.21-06.21"),
+           new ImageStructure(R.drawable.juxie,       "巨蟹座",   "06.22-07.22"),
+           new ImageStructure(R.drawable.shizi,       "狮子座",   "07.23-08.22"),
+           new ImageStructure(R.drawable.chunv,       "处女座",   "08.23-09.22"),
+           new ImageStructure(R.drawable.tiancheng,   "天秤座",   "09.23-10.23"),
+           new ImageStructure(R.drawable.tianxie,     "天蝎座",   "10.24-11.22"),
+           new ImageStructure(R.drawable.sheshou,     "射手座",   "11.23-12.21"),
+           new ImageStructure(R.drawable.mojie,       "摩羯座",   "12.22-01.19"),
        };
 
     private AdapterViewFlipper flipper;
